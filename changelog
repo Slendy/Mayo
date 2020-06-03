@@ -1,0 +1,8 @@
+1.0.1
+- Added a cobblestone space left counter to autocobble
+- Fixed an issue where autocobble would stop walking for a small period
+- Fixed an issue where autocobble mined slower than holding left click
+ 
+1.0
+- Fixed autocobble
+- Fixed fairyesp
