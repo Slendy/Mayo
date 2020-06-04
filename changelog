@@ -1,3 +1,8 @@
+1.1.1
+- Tweaked the updater gui
+- Optimized main menu scrolling patchnotes
+- Fixed an issue where the client thought your version was outdated
+
 1.1
 - Added an update button to main menu
 
