@@ -3,8 +3,8 @@
 - Now when using AutoCobble you won't get spammed with Warped messages
 - Added a captcha bypass for AutoCobble
 - Fixed some crashes
-- Changed the main menu patch notes
-- Now after updating minecraft will automatically reopen
+- Updated the main menu patch note design
+- Now after updating minecraft will automatically reopen (you must close all other open Mayo instances first)
  
 1.2.3
 - Fixed another crash
